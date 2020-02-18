@@ -2,11 +2,7 @@
 
 """
 PyInstaller Extractor v1.8 (Supports pyinstaller 3.2, 3.1, 3.0, 2.1, 2.0)
-Author : Extreme Coders
-E-mail : extremecoders(at)hotmail(dot)com
-Web    : https://0xec.blogspot.com
-Date   : 28-April-2017
-Url    : https://sourceforge.net/projects/pyinstallerextractor/
+
 
 For any suggestions, leave a comment on
 https://forum.tuts4you.com/topic/34455-pyinstaller-extractor/
