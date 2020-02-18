@@ -1,7 +1,6 @@
 #!/usr/bin/python
 '''
-Author: In Ming Loh
-Email: inming.loh@countercept.com
+
 '''
 from __future__ import print_function
 from shutil import copyfile
